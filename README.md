@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Martin Brand
 
-📍 Reading, UK | 📧 martin.brand.data@outlook.com | 🔗 [linkedin.com/in/martin-brand-0a19a6359]
+📍 Reading, UK | 📧 martin.brand.data@outlook.com | 🔗 linkedin.com/in/martin-brand-0a19a6359
 
 ## 🧑‍💻 About Me
 I'm an aspiring Data Scientist with 19 years of business ownership experience and a passion for solving problems with data. I combine real-world operational knowledge with technical skills in SQL, Python, and data visualization.
